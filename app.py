@@ -28,7 +28,7 @@ IMAGEM_HERO = (
 
 IMAGEM_ARTE = (
     "https://images.unsplash.com/"
-    "photo-1577083552431-6e5fd01988"
+    "photo-1549490349-8643362247b5"
     "?auto=format&fit=crop&w=1200&q=85"
 )
 
